@@ -14,9 +14,11 @@
   --color: #{$item-md-color};
   --transition: background-color 300ms cubic-bezier(.4, 0, .2, 1);
   --padding-start: #{$item-md-padding-start};
+  --padding-end: #{$item-md-padding-end};
+  --inner-padding-start: #{$item-md-padding-start};
+  --inner-padding-end: #{$item-md-padding-end};
   --color: #{$item-md-color};
   --border-color: #{$item-md-border-bottom-color};
-  --inner-padding-end: #{$item-md-padding-end};
   --inner-border-width: #{0 0 $item-md-border-bottom-width 0};
   --highlight-height: 2px;
   --highlight-color-focused: #{$item-md-input-highlight-color};
